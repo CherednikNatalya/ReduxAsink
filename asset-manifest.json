@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ReduxAsink/static/css/main.7acaea2f.css",
+    "main.js": "/ReduxAsink/static/js/main.d78c4215.js",
+    "index.html": "/ReduxAsink/index.html",
+    "main.7acaea2f.css.map": "/ReduxAsink/static/css/main.7acaea2f.css.map",
+    "main.d78c4215.js.map": "/ReduxAsink/static/js/main.d78c4215.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.d78c4215.js"
+  ]
+}
